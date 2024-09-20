@@ -39,5 +39,10 @@
 
   (1) The program reads five letters per person, prints once, clears the cache, and loops until Y.
 
+# Think about the question
+  The use of pipeline programming to achieve the parent process write data, child process read data function.
+ 
+  Can communication between two unrelated processes be achieved through anonymous channels? Why?
 
+  What are the other ways of inter-process communication? Search the relevant source code on the Internet, debug and understand.
   
