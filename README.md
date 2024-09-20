@@ -24,4 +24,5 @@
   (1) Master pipeline communication programming technology
   
   Write programs to create, read/write and close the pipeline, and realize the data exchange between the parent and child processes through the pipeline
+
   
