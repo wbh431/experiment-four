@@ -21,8 +21,23 @@
   
   Using multithreading technology to solve the "producer consumer" problem.
 # Experimental procedure
-  (1) Master pipeline communication programming technology
+   1. Master pipeline communication programming technology
   
-  Write programs to create, read/write and close the pipeline, and realize the data exchange between the parent and child processes through the pipeline
+  (1)  Write programs to create, read/write and close the pipeline, and realize the data exchange between the parent and child processes through the pipeline
+  
+  (2)  Understand the use of standard flow pipes
+
+  (3)  Write programs to implement the functionality of named pipes
+
+  2. Master shared memory communication programming technology
+
+  (1) Programming to realize the exchange of data between two processes by sharing memory, mainly using functions such as  shget(), shmat(), shmdt() and shmctl()
+
+  3. Master multi-threaded programming technology
+
+  4. Using multithreading technology to solve the "producer consumer" problem
+
+  (1) The program reads five letters per person, prints once, clears the cache, and loops until Y.
+
 
   
