@@ -70,11 +70,11 @@
   ![4.1](README.assets/4.1(2).png)
   
 # Think about the question
-  The use of pipeline programming to achieve the parent process write data, child process read data function.
+ (1) The use of pipeline programming to achieve the parent process write data, child process read data function.
  
-  Can communication between two unrelated processes be achieved through anonymous channels? Why?
+ (2) Can communication between two unrelated processes be achieved through anonymous channels? Why?
 
-  What are the other ways of inter-process communication? Search the relevant source code on the Internet, debug and understand.
+ (3) What are the other ways of inter-process communication? Search the relevant source code on the Internet, debug and understand.
 
 
 
