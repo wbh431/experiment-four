@@ -27,7 +27,7 @@
   
    ![1.1](https://github.com/wbh431/experiment-four/blob/main/assets/1.1.png)
    
-   ![1.1(2)](README.assets/1.1(2).png) 
+   ![1.1(2)]([README.assets/1.1(2).png](https://github.com/wbh431/experiment-four/blob/main/assets/1.1%20(2).png)) 
    
    ![1.1(3)](README.assets/1.1(3).png)
    
