@@ -39,9 +39,9 @@
    
   (3)  Write programs to implement the functionality of named pipes
   
-  ![[1.3](https://github.com/wbh431/experiment-four/blob/main/assets/1.3.png)
+  ![1.3](https://github.com/wbh431/experiment-four/blob/main/assets/1.3.png)
   
-  ![[1.3(2)](https://github.com/wbh431/experiment-four/blob/main/assets/1.3%20(2).png)
+  ![1.3(2)](https://github.com/wbh431/experiment-four/blob/main/assets/1.3%20(2).png)
   
   ![1.3(3)](https://github.com/wbh431/experiment-four/blob/main/assets/1.3%20(3).png)
   
@@ -53,7 +53,7 @@
   
   ![2.1](https://github.com/wbh431/experiment-four/blob/main/assets/2.1.png)
   
-  ![[2.1(2)](https://github.com/wbh431/experiment-four/blob/main/assets/2.1%20(2).png)
+  ![2.1(2)](https://github.com/wbh431/experiment-four/blob/main/assets/2.1%20(2).png)
   
   3. (1) Master multi-threaded programming technology
 
