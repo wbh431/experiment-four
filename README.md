@@ -25,7 +25,7 @@
   
   (1)  Write programs to create, read/write and close the pipeline, and realize the data exchange between the parent and child processes through the pipeline
   
-   ![1.1]([README.assets/](https://github.com/wbh431/experiment-four/blob/main/assets/1.1.png)
+   ![1.1](https://github.com/wbh431/experiment-four/blob/main/assets/1.1.png)
    
    ![1.1(2)](README.assets/1.1(2).png) 
    
