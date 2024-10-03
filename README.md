@@ -29,7 +29,7 @@
    
    ![1.1(2)](https://github.com/wbh431/experiment-four/blob/main/assets/1.1%20(2).png)
    
-   ![1.1(3)](README.assets/1.1(3).png)
+   ![1.1(3)](https://github.com/wbh431/experiment-four/blob/main/assets/1.1%20(3).png)
    
   (2)  Understand the use of standard flow pipes
   
