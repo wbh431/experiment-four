@@ -33,41 +33,41 @@
    
   (2)  Understand the use of standard flow pipes
   
-   ![1.2](README.assets/1.2.png)
+   ![1.2](https://github.com/wbh431/experiment-four/blob/main/assets/1.2.png)
    
-   ![1.2(2)](README.assets/1.2(2).png)
+   ![1.2(2)](https://github.com/wbh431/experiment-four/blob/main/assets/1.2%20(2).png)
    
   (3)  Write programs to implement the functionality of named pipes
   
-  ![1.3](README.assets/1.3.png)
+  ![[1.3](https://github.com/wbh431/experiment-four/blob/main/assets/1.3.png)
   
-  ![1.3(2)](README.assets/1.3(2).png)
+  ![[1.3(2)](https://github.com/wbh431/experiment-four/blob/main/assets/1.3%20(2).png)
   
-  ![1.3(3)](README.assets/1.3(3).png)
+  ![1.3(3)](https://github.com/wbh431/experiment-four/blob/main/assets/1.3%20(3).png)
   
-  ![1.3(4)](README.assets/1.3(4).png)
+  ![1.3(4)](https://github.com/wbh431/experiment-four/blob/main/assets/1.3%20(4).png)
   
   2. Master shared memory communication programming technology
 
   (1) Programming to realize the exchange of data between two processes by sharing memory, mainly using functions such as  shget(), shmat(), shmdt() and shmctl()
   
-  ![2.1](README.assets/2.1.png)
+  ![2.1](https://github.com/wbh431/experiment-four/blob/main/assets/2.1.png)
   
-  ![2.1(2)](README.assets/2.1(2).png)
+  ![[2.1(2)](https://github.com/wbh431/experiment-four/blob/main/assets/2.1%20(2).png)
   
   3. (1) Master multi-threaded programming technology
 
-  ![3.1](README.assets/3.1.png)
+  ![3.1](https://github.com/wbh431/experiment-four/blob/main/assets/3.1.jpg)
   
-  ![3.1](README.assets/3.1(2).png)
+  ![3.1](https://github.com/wbh431/experiment-four/blob/main/assets/3.1%20(2).jpg)
 
   5. Using multithreading technology to solve the "producer consumer" problem
 
   (1) The program reads five letters per person, prints once, clears the cache, and loops until Y.
   
-  ![4.1](README.assets/4.1.png)
+  ![4.1](https://github.com/wbh431/experiment-four/blob/main/assets/4.1.jpg)
   
-  ![4.1](README.assets/4.1(2).png)
+  ![4.1](https://github.com/wbh431/experiment-four/blob/main/assets/4.1%20(2).jpg)
   
 # Think about the question
  (1) The use of pipeline programming to achieve the parent process write data, child process read data function.
