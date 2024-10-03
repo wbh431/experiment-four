@@ -45,4 +45,13 @@
   Can communication between two unrelated processes be achieved through anonymous channels? Why?
 
   What are the other ways of inter-process communication? Search the relevant source code on the Internet, debug and understand.
+
+
+
+# Group division of labor
+  1. Cui Pengju, ZHENG Keyuan, MA Bingyu, LIU Qiyue    1.1 1.2
+     
+  2. Wu Binghan, WU Hao, HE YuHAO                      1.3 2.1
+     
+  3. Wang Yihan, Cheng Yu, YAN Xuejie                  3.1 4.1
   
